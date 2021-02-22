@@ -2,7 +2,7 @@
 
 A front-end application which would help users list and browse all launches by SpaceX program.
 
-[App Link](https://spacex-launch-program.herokuapp.com/)
+[App Link]()
 
 ## About Spacex Launch Program
 
