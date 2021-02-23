@@ -27,7 +27,7 @@ The application is deployed on **Heroku**
 
 **Lighthouse Score**
 
-![lighthouse score](https://pasteboard.co/JPGlFgs.jpg)
+![alt text](https://github.com/neelu-singh/spacex-launch-program/blob/main/light_house_score.jpg?raw=true)
 
 ## Note
 
