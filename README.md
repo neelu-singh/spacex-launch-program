@@ -2,7 +2,7 @@
 
 A front-end application which would help users list and browse all launches by SpaceX program.
 
-[App Link]()
+[App Link](https://spacex-launch-2021.herokuapp.com/)
 
 ## About Spacex Launch Program
 
@@ -24,6 +24,10 @@ Unit test cases are writen by using following libraries:
 - enzyme
 
 The application is deployed on **Heroku**
+
+**Lighthouse Score**
+
+![lighthouse score](https://ibb.co/nfkGRh0)
 
 ## Note
 
