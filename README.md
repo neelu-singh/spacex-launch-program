@@ -27,7 +27,7 @@ The application is deployed on **Heroku**
 
 **Lighthouse Score**
 
-![lighthouse score](https://ibb.co/nfkGRh0)
+![lighthouse score](https://pasteboard.co/JPGlFgs.jpg)
 
 ## Note
 
